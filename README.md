@@ -32,6 +32,6 @@ In Windows, when writing registers, you need to put "`" before it, since "$" are
 
 ### FOR LINUX/MAC:
 ```
-$> java -jar < Name of jar >.jar "add \$t5, \$s7, \$5"
+$> java -jar < Name of jar >.jar "add \$t5, \$s7, \$s5"
 ```
 In Linux/Mac, you precede the dollar sign with a backslash.
