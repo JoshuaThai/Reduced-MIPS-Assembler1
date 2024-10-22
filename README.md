@@ -1,5 +1,5 @@
 # Reduced MIPS Assembler
-This is a program I created for my Computer Architecture course during my junior year at the University of Wisconsin - Milwaukee. This program is meant to partially simulate the functioning of a MIPS assembly. 
+This is a Java program I created for my Computer Architecture course during my junior year at the University of Wisconsin - Milwaukee. This program is meant to partially simulate the functioning of a MIPS assembly. This is the first milestone for a bigger Reduced MIPS assembly project.
 # What does it do?
 Basically, the program will take an line of assembly code from the command line of a terminal and give an hexadecimal output. This output represents the assembly instruction in hexadecimal.
 The program will assume all input is valid input in its current state. The program is able to handle up to 15 MIPS assembly instructions:
